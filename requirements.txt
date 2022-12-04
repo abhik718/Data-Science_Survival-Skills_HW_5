@@ -1,0 +1,3 @@
+--!!Below are the required libraries!!--
+numpy
+turtle
